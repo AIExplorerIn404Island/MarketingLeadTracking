@@ -1,0 +1,13 @@
+{
+  "pages": {
+    "/_app": []
+  },
+  "devFiles": [],
+  "polyfillFiles": [],
+  "lowPriorityFiles": [
+    "static/isfpu-DAELjmQcnc6GWVH/_buildManifest.js",
+    "static/isfpu-DAELjmQcnc6GWVH/_ssgManifest.js",
+    "static/isfpu-DAELjmQcnc6GWVH/_clientMiddlewareManifest.js"
+  ],
+  "rootMainFiles": []
+}
